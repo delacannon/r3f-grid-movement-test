@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+}
+
+.hud {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  color: white;
+}

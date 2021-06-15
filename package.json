@@ -1,0 +1,46 @@
+{
+  "name": "astar-tile-movement-r3f",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/press-start-2p": "^4.4.5",
+    "@react-three/drei": "^6.1.2",
+    "@react-three/postprocessing": "^2.0.4-alpha.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "gsap": "^3.6.1",
+    "javascript-astar": "^0.4.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.129.0",
+    "three-plain-animator": "^1.0.6",
+    "zustand": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
